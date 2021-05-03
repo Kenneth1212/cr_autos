@@ -1,0 +1,54 @@
+.right-sidebar{
+    position: fixed;
+    top: 30%;
+   
+  
+}
+
+.right-sidebar ul{
+    border: none;
+    display: flex;  
+    flex-direction: column;
+}
+
+.right-sidebar i.fa{
+    padding: 2px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.right-sidebar button{
+    width: 80px;
+    transition: .5s;
+}
+
+
+.right-sidebar a{
+    width: 80px;
+    transition: .5s;
+}
+
+.right-sidebar #fav{
+    background: #3b5999;
+}
+
+.right-sidebar #idw{
+    background: #25d366;
+}
+.right-sidebar #idpdf{
+    background: #dd4b39;
+}
+.right-sidebar #idcorreo{
+    background: #bd081c;
+}
+.right-sidebar #idface{
+    background: #0077b5;
+}
+
+.right-sidebar button:hover{
+    width: 125px;
+}
+
+.right-sidebar a:hover{
+    width: 125px;
+}

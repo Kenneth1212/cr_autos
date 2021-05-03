@@ -1,0 +1,75 @@
+.contenido{
+	margin-bottom: -20px;
+}
+
+.contenido h2{
+    padding-top:60px; 
+    text-align: left;
+    margin-left: 20px;
+}
+.contenido p{
+    text-align: left;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.contenido img{
+	margin-top: 22px;
+	margin-left: -7px;
+}
+
+.cartas{
+	padding-bottom: 20px; 
+	padding-top: 10px;
+}
+
+#subrayado h2{
+	border-bottom: #00121c 1px solid;
+	color: #595959;
+}
+
+#tit_uno{
+	background-color: #42588D;
+	color:#fff;
+	text-align: right;
+}
+#infoUno{
+	border-bottom: #ffffff 1px solid;
+	color: #ffffff;
+	margin-right: 10px;
+}
+#tit_dos{
+	background-color: #02BAF8;
+	color: #fff;
+	text-align: left;
+}
+#infoDos{
+	border-bottom: #ffffff 1px solid;
+	color: #ffffff;
+	margin-left: 10px;
+
+}
+
+.informacion{
+  background-color: #00141D;
+  color: white;
+  padding:25px;
+}
+
+#infoCarusel{
+	height: 400px;
+	perspective: 600px;
+	transform: translateY(-40px);
+}
+
+#infoCarusel h3{
+	margin: -5px 0 0;
+	padding: 0;
+	background: #fff;
+	color: #000;
+	box-sizing: border-box;
+	padding: 10px 5px;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+} 
